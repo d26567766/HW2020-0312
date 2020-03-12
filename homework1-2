@@ -1,0 +1,31 @@
+public class hw2 {
+
+        //Date members
+        private String name, Chinese, English, History, Geography, Citizen;
+
+        //Constructor(建構元)
+        public hw2(){
+            System.out.println("book object has created");
+        }
+
+        //function members
+        public void  setName(String newName){
+            this.name =newName;
+        }
+
+        public String getName(){
+            return this.name;
+        }
+
+        public void Flipping(){
+
+        }
+        public void Reading(){
+
+        }
+
+        public void Thinking(){
+
+        }
+    }
+
