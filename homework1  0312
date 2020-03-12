@@ -1,0 +1,8 @@
+public class hw0312 {
+
+    public static void main(String[] args){
+        hw2 book1 =new hw2();
+        book1.setName("book");
+        System.out.println(book1.getName());
+    }
+}
